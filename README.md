@@ -4,10 +4,10 @@
 Instaclone là mạng xã hội clone lại từ Instagram được code với Next.js, TailwindCSS, và Prisma. Hi vọng mọi người sẽ thích project 
 
 //Tính Năng
-Xác thực: Đăng nhập và đăng ký qua NextAuth.
-Tạo bài viết: Tải lên và chia sẻ bài viết với hình ảnh.
-Bình luận & Thích: Tương tác với bài viết qua bình luận và thích.
-Quản lý hồ sơ: Tạo và quản lý hồ sơ người dùng.
+- Xác thực: Đăng nhập và đăng ký qua NextAuth.
+- Tạo bài viết: Tải lên và chia sẻ bài viết với hình ảnh.
+- Bình luận & Thích: Tương tác với bài viết qua bình luận và thích.
+- Quản lý hồ sơ: Tạo và quản lý hồ sơ người dùng.
 
 // 
 - Front-end: Next.js, TailwindCSS
