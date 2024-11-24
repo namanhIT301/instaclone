@@ -21,6 +21,8 @@ http://localhost:3000/login để đăng nhập từ tài khoản google của b
 PJ này sử dụng font Inter của google, bạn có thể sửa font khác
 
 ------ English ---------
+
+
 Instaclone is a social network clone of Instagram built with Next.js, TailwindCSS, and Prisma. Hope everyone enjoys the project!
 
 // Features
